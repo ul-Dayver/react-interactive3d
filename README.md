@@ -11,7 +11,7 @@ npm install --save react-interactive3d
 ## Usage
 
 ```jsx static
-import React, {useCallback} from 'react'
+import React from 'react'
 import Interactive3D from 'react-interactive3d'
 
 function MyInteractive() {
