@@ -1,6 +1,6 @@
 {
   "name": "react-interactive3d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple render of images in canvas for 3D interactivity in React",
   "main": "dist/index.js",
   "module": "dist/es/index.js",
